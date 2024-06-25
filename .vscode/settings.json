@@ -1,6 +1,7 @@
 {
   "cSpell.words": [
-    "descricao"
+    "descricao",
+    "usuario"
   ],
   "prettier.semi": false, // remove ponto e virgula a direita
   "prettier.tabWidth": 2, // identação
