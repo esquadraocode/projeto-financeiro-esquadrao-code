@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "descricao"
+  ],
+  "prettier.semi": false, // remove ponto e virgula a direita
+  "prettier.tabWidth": 2, // identação
+  "prettier.singleQuote": true, // troca aspas duplas por simples
+  "editor.formatOnSave": true, // formata o dodumento ao salvar
+  "editor.formatOnPaste": true, // formata o documento ao colar
+  "editor.wordWrap": "wordWrapColumn", // controla como a linha será quebrada
+  "editor.wordWrapColumn": 80 // quebra a linha
+}
